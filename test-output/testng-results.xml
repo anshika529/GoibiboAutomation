@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="86065" started-at="2020-09-22T04:55:33Z" finished-at="2020-09-22T04:56:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="86065" started-at="2020-09-22T04:55:33Z" finished-at="2020-09-22T04:56:59Z">
+      <class name="com.atmecs.goibibo.testscripts.TwowaytravelTest">
+        <test-method status="PASS" signature="settingAndLaunchingDriver()[pri:0, instance:com.atmecs.goibibo.testscripts.TwowaytravelTest@29774679]" name="settingAndLaunchingDriver" is-config="true" duration-ms="15539" started-at="2020-09-22T04:56:38Z" finished-at="2020-09-22T04:56:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settingAndLaunchingDriver -->
+        <test-method status="PASS" signature="book()[pri:2, instance:com.atmecs.goibibo.testscripts.TwowaytravelTest@29774679]" name="book" duration-ms="1993" started-at="2020-09-22T04:56:53Z" finished-at="2020-09-22T04:56:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- book -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.atmecs.goibibo.testscripts.TwowaytravelTest@29774679]" name="close" is-config="true" duration-ms="4112" started-at="2020-09-22T04:56:55Z" finished-at="2020-09-22T04:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.atmecs.goibibo.testscripts.TwowaytravelTest -->
+      <class name="com.atmecs.goibibo.testscripts.LoginTest">
+        <test-method status="PASS" signature="settingAndLaunchingDriver()[pri:0, instance:com.atmecs.goibibo.testscripts.LoginTest@3ffc5af1]" name="settingAndLaunchingDriver" is-config="true" duration-ms="24792" started-at="2020-09-22T04:55:33Z" finished-at="2020-09-22T04:55:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settingAndLaunchingDriver -->
+        <test-method status="PASS" signature="login()[pri:1, instance:com.atmecs.goibibo.testscripts.LoginTest@3ffc5af1]" name="login" duration-ms="35507" started-at="2020-09-22T04:55:58Z" finished-at="2020-09-22T04:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.atmecs.goibibo.testscripts.LoginTest@3ffc5af1]" name="close" is-config="true" duration-ms="4090" started-at="2020-09-22T04:56:34Z" finished-at="2020-09-22T04:56:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.atmecs.goibibo.testscripts.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
